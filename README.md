@@ -24,21 +24,12 @@
 <div align="center">
 
 ```typescript
-/**
- * Abhay Pal
- * Computer Science Engineering Student
- * Building scalable web applications and exploring AI/ML.
- */
 
-const abhayPal = {
+
+abhay Pal = {
   role: "Computer Science Engineering Student",
 
-  code: [
-    "Java",
-    "Python",
-    "JavaScript",
-    "SQL",
-  ],
+  code: ["Java", "Python", "JavaScript", "SQL"],
 
   technologies: {
     frontend: ["React.js", "Bootstrap"],
@@ -69,7 +60,7 @@ const abhayPal = {
   ],
 
   motto: "Learn • Build • Improve 🚀",
-} as const;
+} 
 ```
 
 </div>
