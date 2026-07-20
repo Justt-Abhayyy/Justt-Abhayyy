@@ -21,24 +21,51 @@
 
 ## 👋 Who I Am
 
+<div align="center">
+
 ```typescript
+/**
+ * Abhay Pal — CS Student
+ * Building things at the intersection of web dev & machine learning.
+ */
 const abhayPal = {
   title: "CS Student",
+
   stack: {
-    languages: ["Java", "Python", "SQL", "JavaScript", "HTML5", "CSS3"],
-    frontend: ["React.js", "Bootstrap", "HTML5", "CSS3", "JavaScript"],
-    backend: ["Spring Boot", "REST APIs", "JDBC"],
-    database: ["PostgreSQL", "MySQL"],
-    aiml: ["NumPy", "Pandas", "Scikit-learn", "Jupyter Notebook", "TensorFlow (Basics)"],
-    cloud: ["GitHub", "Render (Basics)", "Vercel (Basics)"],
-    devops: ["Git", "GitHub", "Maven", "Postman", "VS Code", "IntelliJ IDEA", "Linux", "Docker (Basics)"],
+    languages: [
+      "Java", "Python", "SQL",
+      "JavaScript", "HTML5", "CSS3",
+    ],
+    frontend: [
+      "React.js", "Bootstrap",
+      "HTML5", "CSS3", "JavaScript",
+    ],
+    backend: [
+      "Spring Boot", "REST APIs", "JDBC",
+    ],
+    database: [
+      "PostgreSQL", "MySQL",
+    ],
+    aiml: [
+      "NumPy", "Pandas", "Scikit-learn",
+      "Jupyter Notebook", "TensorFlow (Basics)",
+    ],
+    cloud: [
+      "GitHub", "Render (Basics)", "Vercel (Basics)",
+    ],
+    devops: [
+      "Git", "GitHub", "Maven", "Postman",
+      "VS Code", "IntelliJ IDEA", "Linux", "Docker (Basics)",
+    ],
   },
+
   launchedProjects: ["CodeMentorAI"],
-  certifications: [],
-  status: "Learning & Building",
+  status: "Learning & Building 🚀",
   openTo: ["Internships", "Full-time Roles", "Collaborations"],
-};
+} as const;
 ```
+
+</div>
 
 <br/>
 
@@ -50,7 +77,7 @@ const abhayPal = {
 
 <div align="center">
   <a href="https://github.com/Justt-Abhayyy/CodeMentorAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justt-Abhayyy&repo=CodeMentorAI&theme=nord&border_color=0969DA&title_color=0969DA&text_color=c9d1d9&icon_color=0969DA" />
+    <img src="./profile/pin-codementorai.svg" />
   </a>
 </div>
 
@@ -101,10 +128,10 @@ const abhayPal = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Justt-Abhayyy&show_icons=true&theme=nord&border_color=0969DA&title_color=0969DA&text_color=c9d1d9&icon_color=0969DA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justt-Abhayyy&layout=compact&theme=nord&border_color=0969DA&title_color=0969DA&text_color=c9d1d9" />
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
 
-<img src="https://streak-stats.demolab.com?user=Justt-Abhayyy&theme=nord&border=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
+<img src="./profile/streak.svg" />
 
 </div>
 
@@ -114,7 +141,7 @@ const abhayPal = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Justt-Abhayyy&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Justt-Abhayyy&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
