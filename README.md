@@ -1,114 +1,171 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Abhay Pal**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=220&section=header&text=Abhay%20Pal&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0969DA,100:4F8EF7&text=Computer%20Science%20Engineering%20Student&fontAlignY=40&fontColor=ffffff&animation=twinkling"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Building+CodeMentorAI+%F0%9F%A4%96;Spring+Boot+%2B+React+%2B+PostgreSQL;Exploring+Machine+Learning+with+Python;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&center=true&vCenter=true&width=850&color=0969DA&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+CodeMentorAI;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full-Time-0969DA?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Justt-Abhayyy&style=for-the-badge&color=0969DA"/>
-<img src="https://img.shields.io/github/followers/Justt-Abhayyy?style=for-the-badge&color=0969DA"/>
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-0969DA?style=for-the-badge&logo=briefcase&logoColor=white)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Justt-Abhayyy&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Justt-Abhayyy?label=FOLLOWERS&style=for-the-badge&color=0969DA)
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
-
-```ts
-const abhay = {
-  role: "Computer Science Engineering Student",
-  focus: ["Full Stack Development", "Artificial Intelligence", "Machine Learning"],
-  currentlyBuilding: "CodeMentorAI",
-  lookingFor: ["Software Engineering Internship", "Full Stack Roles", "AI/ML Opportunities"],
-  backend: ["Spring Boot", "REST APIs"],
-  database: ["PostgreSQL", "MySQL"],
-  funFact: "I enjoy solving DSA problems and building real-world software."
-};
-```
-
-<table>
-<tr>
-<td width="50%">
-
-## 🚀 Featured Project
-
-### 🤖 CodeMentorAI
-
-> AI-powered coding practice platform built using Spring Boot, React, PostgreSQL and Machine Learning.
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Justt-Abhayyy&repo=CodeMentorAI&theme=transparent&border_color=0969DA&title_color=0969DA&text_color=c9d1d9&icon_color=0969DA)](https://github.com/Justt-Abhayyy/CodeMentorAI)
-
-| Layer | Technology |
-|-------|------------|
-| Frontend | React, HTML5, CSS3, Bootstrap |
-| Backend | Spring Boot, REST APIs, JDBC |
-| Database | PostgreSQL |
-| AI/ML | Python, NumPy, Pandas, Scikit-learn |
-| Tools | Git, Maven, Postman |
-
-🔗 **Repository:** https://github.com/Justt-Abhayyy/CodeMentorAI
-
-</td>
-
-<td width="50%">
-
-## 🧰 Tech Arsenal
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-
-### Backend
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-
-### Database & AI
-<img src="https://skillicons.dev/icons?i=postgres,mysql,tensorflow"/>
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,docker,linux,github,vscode,idea,postman"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Justt-Abhayyy&show_icons=true&theme=transparent&border_color=0969DA&title_color=0969DA&icon_color=0969DA&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justt-Abhayyy&layout=compact&theme=transparent&border_color=0969DA&title_color=0969DA&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Justt-Abhayyy&theme=transparent&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&border=0969DA"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Justt-Abhayyy&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Justt-Abhayyy&bg_color=0d1117&color=58a6ff&line=0969DA&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/iabhaypal"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abhaypal.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-0969DA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 👋 Who I Am
 
 <div align="center">
 
-### ⭐ *"Code. Learn. Build. Repeat."*
+```typescript
+/**
+ * Abhay Pal — CS Student
+ * Building things at the intersection of web dev & machine learning.
+ */
+const abhayPal = {
+  title: "CS Student",
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0969DA,100:4F8EF7"/>
+  stack: {
+    languages: [
+      "Java", "Python", "SQL",
+      "JavaScript", "HTML5", "CSS3",
+    ],
+    frontend: [
+      "React.js", "Bootstrap",
+      "HTML5", "CSS3", "JavaScript",
+    ],
+    backend: [
+      "Spring Boot", "REST APIs", "JDBC",
+    ],
+    database: [
+      "PostgreSQL", "MySQL",
+    ],
+    aiml: [
+      "NumPy", "Pandas", "Scikit-learn",
+      "Jupyter Notebook", "TensorFlow (Basics)",
+    ],
+    cloud: [
+      "GitHub", "Render (Basics)", "Vercel (Basics)",
+    ],
+    devops: [
+      "Git", "GitHub", "Maven", "Postman",
+      "VS Code", "IntelliJ IDEA", "Linux", "Docker (Basics)",
+    ],
+  },
+
+  launchedProjects: ["CodeMentorAI"],
+  status: "Learning & Building 🚀",
+  openTo: ["Internships", "Full-time Roles", "Collaborations"],
+} as const;
+```
 
 </div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+### CodeMentorAI
+
+> AI-powered coding practice platform built with Spring Boot, React, PostgreSQL, and Machine Learning.
+
+<div align="center">
+  <a href="https://github.com/Justt-Abhayyy/CodeMentorAI">
+    <img src="./profile/pin-codementorai.svg" />
+  </a>
+</div>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| Backend | Spring Boot, REST APIs |
+| Database | PostgreSQL |
+| Intelligence | Machine Learning |
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/Code-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justt-Abhayyy/CodeMentorAI)
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+![Languages](https://skillicons.dev/icons?i=java,python,mysql,js,html,css)
+
+**Frontend**
+<br/>
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)
+
+**Backend / Infra**
+<br/>
+![Backend](https://skillicons.dev/icons?i=spring,postman,maven)
+
+**Cloud**
+<br/>
+![Cloud](https://skillicons.dev/icons?i=github,vercel,render)
+
+**AI / Database**
+<br/>
+![AI/DB](https://skillicons.dev/icons?i=python,tensorflow,postgres,mysql)
+
+**Dev Tools**
+<br/>
+![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
+
+<img src="./profile/streak.svg" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Justt-Abhayyy&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Justt-Abhayyy&theme=react-dark&hide_border=true&color=0969DA&line=0969DA&point=ffffff" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabhaypal)
+[![Email](https://img.shields.io/badge/Email-0969DA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaypal.cse@gmail.com)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=150&section=footer&animation=twinkling" />
