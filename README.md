@@ -27,33 +27,48 @@
 /**
  * Abhay Pal
  * Computer Science Engineering Student
- * Full Stack Developer • AI/ML Enthusiast
+ * Building scalable web applications and exploring AI/ML.
  */
 
 const abhayPal = {
-  title: "Computer Science Engineering Student",
+  role: "Computer Science Engineering Student",
 
-  stack: {
-    languages: ["Java", "Python", "JavaScript", "SQL", "HTML5", "CSS3"],
-    frontend: ["React.js", "Bootstrap"],
-    backend: ["Spring Boot", "REST APIs", "JDBC"],
-    databases: ["PostgreSQL", "MySQL"],
-    aiMl: ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Jupyter"],
-    cloud: ["GitHub", "Render", "Vercel"],
-    devTools: ["Git", "Docker", "Maven", "Postman", "Linux", "VS Code", "IntelliJ"],
-  },
-
-  currentProject: "CodeMentorAI",
-
-  interests: [
-    "Full Stack Development",
-    "Artificial Intelligence",
-    "Machine Learning",
+  code: [
+    "Java",
+    "Python",
+    "JavaScript",
+    "SQL",
   ],
 
-  status: "Building • Learning 🚀",
+  technologies: {
+    frontend: ["React.js", "Bootstrap"],
+    backend: ["Spring Boot", "REST APIs"],
+    database: ["PostgreSQL", "MySQL"],
+    aiMl: ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
+    tools: ["Git", "Docker", "Linux", "Postman"],
+  },
 
-  openTo: ["Internships", "Full-time Roles", "Collaborations"],
+  currentFocus: [
+    "Full Stack Development",
+    "Machine Learning",
+    "Data Structures & Algorithms",
+  ],
+
+  currentlyBuilding: "CodeMentorAI",
+
+  learning: [
+    "Spring Security",
+    "System Design",
+    "Cloud Computing",
+  ],
+
+  openTo: [
+    "Software Engineering Internships",
+    "Full Stack Developer Roles",
+    "AI/ML Opportunities",
+  ],
+
+  motto: "Learn • Build • Improve 🚀",
 } as const;
 ```
 
