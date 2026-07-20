@@ -25,42 +25,34 @@
 
 ```typescript
 /**
- * Abhay Pal — CS Student
- * Building things at the intersection of web dev & machine learning.
+ * Abhay Pal
+ * Computer Science Engineering Student
+ * Full Stack Developer • AI/ML Enthusiast
  */
+
 const abhayPal = {
-  title: "CS Student",
+  title: "Computer Science Engineering Student",
 
   stack: {
-    languages: [
-      "Java", "Python", "SQL",
-      "JavaScript", "HTML5", "CSS3",
-    ],
-    frontend: [
-      "React.js", "Bootstrap",
-      "HTML5", "CSS3", "JavaScript",
-    ],
-    backend: [
-      "Spring Boot", "REST APIs", "JDBC",
-    ],
-    database: [
-      "PostgreSQL", "MySQL",
-    ],
-    aiml: [
-      "NumPy", "Pandas", "Scikit-learn",
-      "Jupyter Notebook", "TensorFlow (Basics)",
-    ],
-    cloud: [
-      "GitHub", "Render (Basics)", "Vercel (Basics)",
-    ],
-    devops: [
-      "Git", "GitHub", "Maven", "Postman",
-      "VS Code", "IntelliJ IDEA", "Linux", "Docker (Basics)",
-    ],
+    languages: ["Java", "Python", "JavaScript", "SQL", "HTML5", "CSS3"],
+    frontend: ["React.js", "Bootstrap"],
+    backend: ["Spring Boot", "REST APIs", "JDBC"],
+    databases: ["PostgreSQL", "MySQL"],
+    aiMl: ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Jupyter"],
+    cloud: ["GitHub", "Render", "Vercel"],
+    devTools: ["Git", "Docker", "Maven", "Postman", "Linux", "VS Code", "IntelliJ"],
   },
 
-  launchedProjects: ["CodeMentorAI"],
-  status: "Learning & Building 🚀",
+  currentProject: "CodeMentorAI",
+
+  interests: [
+    "Full Stack Development",
+    "Artificial Intelligence",
+    "Machine Learning",
+  ],
+
+  status: "Building • Learning 🚀",
+
   openTo: ["Internships", "Full-time Roles", "Collaborations"],
 } as const;
 ```
