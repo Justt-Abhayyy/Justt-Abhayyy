@@ -1,212 +1,202 @@
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
 
-👋 Hey, I'm Abhay Pal
+<a href="https://github.com/Justt-Abhayyy">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABHAY%20PAL&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:2563EB,100:06B6D4" width="100%" alt="Abhay Pal header"/>
+</a>
 
-Full-Stack Developer • AI/ML Enthusiast • Problem Solver
+<br>
 
-<p>
-  <a href="https://github.com/Justt-Abhayyy">
-    <img src="https://img.shields.io/badge/GitHub-Justt--Abhayyy-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/iabhaypal">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Pal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abhaypal.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+real-world+software+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+AI%2FML;Turning+ideas+into+working+products+%E2%9A%A1;Learn+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Repeat" alt="Typing animation"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Justt-Abhayyy&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile views"/>
+<br><br>
+
+<a href="https://github.com/Justt-Abhayyy">
+  <img src="https://img.shields.io/badge/GitHub-Justt--Abhayyy-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/iabhaypal">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:abhaypal.cse@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Justt-Abhayyy&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-🚀 About Me
+👨‍💻 About Me
 
-I'm a B.Tech Computer Science & Engineering student focused on building practical software systems that combine full-stack development, backend engineering, and AI/ML.
+┌─────────────────────────────────────────────────────────────────┐
+│  Abhay Pal                                                       │
+│  B.Tech CSE • Full-Stack Developer • AI/ML Enthusiast           │
+├─────────────────────────────────────────────────────────────────┤
+│  I build practical software systems from idea → implementation. │
+│  My interests sit at the intersection of backend engineering,   │
+│  full-stack development, AI/ML and scalable system design.      │
+└─────────────────────────────────────────────────────────────────┘
 
-I enjoy turning ideas into complete products — from database design and REST APIs to responsive interfaces, machine-learning pipelines, authentication, testing, and deployment.
+🚀 Building CodeMentorAI — an AI-powered coding practice platform
 
-🔭 Currently building CodeMentorAI, an AI-powered coding practice platform
+⚙️ Focused on Spring Boot, REST APIs, PostgreSQL, React & Docker
 
-🧠 Exploring AI/ML, Generative AI, system design, and scalable backend architecture
+🧠 Exploring Machine Learning, Generative AI & intelligent systems
 
-⚙️ Working with Spring Boot, PostgreSQL, React, Python, and Docker
+🏗️ Learning System Design, scalability & production architecture
 
-💻 Practicing Data Structures & Algorithms and problem solving
+💻 Strengthening DSA and problem-solving
 
-🌱 Continuously improving my software engineering and system design skills
+🎯 Goal: build software that is useful, scalable and technically strong
 
-💼 Open to Software Engineering, Full-Stack, and AI/ML opportunities
+⚡ Tech Arsenal
 
-☕ Motto: Learn • Build • Ship • Repeat
+<div align="center">
 
-🧑‍💻 My Tech Stack
+💻 Languages
 
-Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql&theme=dark" alt="Programming languages"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql" alt="Languages"/>
-</p>
+🎨 Frontend
 
-Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" alt="Frontend technologies"/>
-</p>
+⚙️ Backend & APIs
 
-Backend & APIs
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,postman&theme=dark" alt="Backend technologies"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,postman" alt="Backend technologies"/>
-</p>
+🗄️ Databases
 
-Databases & Data
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Database technologies"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/>
-</p>
+🧠 AI / ML
 
-AI / ML & Data Science
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI and ML technologies"/>
+<br>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and ML technologies"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+🛠️ DevOps & Tools
 
-DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,nginx,vscode,idea,maven&theme=dark" alt="DevOps and developer tools"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,nginx,vscode,idea,maven" alt="DevOps and tools"/>
-</p>
+</div>
 
 🚀 Featured Project
 
 <div align="center">
+
+<a href="https://github.com/Justt-Abhayyy/CodeMentorAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justt-Abhayyy&repo=CodeMentorAI&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1" width="520" alt="CodeMentorAI repository"/>
+</a>
+
 🧠 CodeMentorAI
 
-AI-powered coding practice platform focused on personalized problem recommendations, performance analysis, and adaptive difficulty.
+AI-powered coding practice & learning platform
 
-Stack: React.js · Spring Boot · PostgreSQL · JPA/Hibernate · Spring Security · Python · Scikit-learn · Docker
+Personalized problem recommendations • Performance analysis • Adaptive difficulty • AI-assisted learning
 
-🔗 View Project
+React.js Spring Boot PostgreSQL Spring Security Python Scikit-learn Docker
 
-<p>
-  <a href="https://github.com/Justt-Abhayyy/CodeMentorAI">
-    <img src="https://img.shields.io/badge/View%20Project-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="View CodeMentorAI"/>
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/Justt-Abhayyy/CodeMentorAI">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore CodeMentorAI"/>
+</a>
 
 </div>
 
-🧠 What I'm Currently Learning
+🧭 Currently Exploring
 
-Area
+<div align="center">
 
-Focus
+🧩 Area
 
-⚙️ Backend Engineering
+🔍 Focus
 
-Spring Boot • REST APIs • Spring Security
+⚙️ Backend
 
-🏗️ System Design
+Spring Boot · REST APIs · Spring Security
 
-Architecture • Scalability • Design Patterns
+🏗️ Architecture
+
+System Design · Scalability · Design Patterns
 
 🧠 AI / ML
 
-Machine Learning • Deep Learning • Generative AI
+ML · Deep Learning · Generative AI
 
-💻 Data Structures
+💻 DSA
 
-Algorithms • Problem Solving
+Algorithms · Problem Solving
 
 🐳 DevOps
 
-Docker • CI/CD • Linux
+Docker · CI/CD · Linux
 
-📊 GitHub Statistics
+</div>
+
+📈 GitHub
 
 <div align="center">
 
 <a href="https://github.com/Justt-Abhayyy?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
-</a>
-<a href="https://github.com/Justt-Abhayyy?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Explore%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub stars"/>
+  <img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 <a href="https://github.com/Justt-Abhayyy?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-Connect-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/Followers-Connect-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+</a>
+<a href="https://github.com/Justt-Abhayyy?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<a href="https://github.com/Justt-Abhayyy">
-  <img src="https://img.shields.io/badge/GitHub-@Justt--Abhayyy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Justt-Abhayyy&bg_color=0F172A&color=38BDF8&line=2563EB&point=22D3EE&area=true&hide_border=true" width="95%" alt="GitHub contribution activity"/>
 
 </div>
 
-GitHub's native profile page displays my contribution calendar, activity, repositories, and language statistics directly.
+🎯 2026 Focus
 
-🏆 Achievements
+[████████████████████░░]  Full-Stack Engineering
+[██████████████████░░░░]  Backend & System Design
+[█████████████████░░░░░]  AI / ML & GenAI
+[████████████████░░░░░░]  Data Structures & Algorithms
+[██████████████░░░░░░░░]  DevOps & Cloud
 
-<div align="center">
+Building fewer things, but building them properly.
 
-<a href="https://github.com/Justt-Abhayyy">
-  <img src="https://img.shields.io/badge/Building-Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Building projects"/>
-</a>
-<a href="https://github.com/Justt-Abhayyy?tab=repositories">
-  <img src="https://img.shields.io/badge/Learning-Consistently-58A6FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning consistently"/>
-</a>
-<a href="https://github.com/Justt-Abhayyy">
-  <img src="https://img.shields.io/badge/Shipping-Code-0969DA?style=for-the-badge&logo=rocket&logoColor=white" alt="Shipping code"/>
-</a>
-
-</div>
-
-🎯 Current Focus
-
-🚀 Building and improving CodeMentorAI
-
-🔐 Strengthening Spring Security and backend development
-
-🧠 Learning Generative AI and modern ML workflows
-
-🏗️ Studying system design and scalable architectures
-
-💻 Improving DSA and competitive problem-solving skills
-
-🐳 Learning Docker, CI/CD, and production development practices
-
-💼 Preparing for software engineering and AI/ML roles
-
-🤝 Let's Connect
+🤝 Let's Build Something
 
 <div align="center">
+
+Whether it's software engineering, AI/ML, backend systems, or an interesting side project — I'm always open to connecting and learning.
+
+<br>
 
 <a href="https://linkedin.com/in/iabhaypal">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:abhaypal.cse@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Justt-Abhayyy">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<br><br>
+
+Learn • Build • Ship • Repeat 🚀
 
 </div>
 
 <div align="center">
 
-💬 Developer Philosophy
-
-First, solve the problem. Then, write the code.
-
-⭐ If you find something useful in my repositories, feel free to explore, star, or connect.
-
-Learn • Build • Ship • Repeat 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:0F172A,50:2563EB,100:06B6D4" width="100%" alt="Footer"/>
 
 </div>
