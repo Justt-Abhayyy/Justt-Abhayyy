@@ -32,14 +32,14 @@
 
 👨‍💻 About Me
 
-┌─────────────────────────────────────────────────────────────────┐
-│  Abhay Pal                                                       │
-│  B.Tech CSE • Full-Stack Developer • AI/ML Enthusiast           │
-├─────────────────────────────────────────────────────────────────┤
-│  I build practical software systems from idea → implementation. │
-│  My interests sit at the intersection of backend engineering,   │
-│  full-stack development, AI/ML and scalable system design.      │
-└─────────────────────────────────────────────────────────────────┘
+
+  Abhay Pal                                                       
+  B.Tech CSE • Full-Stack Developer • AI/ML Enthusiast           
+
+  I build practical software systems from idea → implementation. 
+  My interests sit at the intersection of backend engineering,   
+  full-stack development, AI/ML and scalable system design.      
+
 
 🚀 Building CodeMentorAI — an AI-powered coding practice platform
 
@@ -163,11 +163,11 @@ Docker · CI/CD · Linux
 
 🎯 2026 Focus
 
-[████████████████████░░]  Full-Stack Engineering
-[██████████████████░░░░]  Backend & System Design
-[█████████████████░░░░░]  AI / ML & GenAI
-[████████████████░░░░░░]  Data Structures & Algorithms
-[██████████████░░░░░░░░]  DevOps & Cloud
+ Full-Stack Engineering
+ Backend & System Design
+ AI / ML & GenAI
+ Data Structures & Algorithms
+ DevOps & Cloud
 
 Building fewer things, but building them properly.
 
