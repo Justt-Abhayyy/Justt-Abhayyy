@@ -142,39 +142,67 @@ Git, GitHub, Docker
 
 🧠 What I'm Currently Learning
 
-Backend Engineering       ███████████████░░░  Spring Boot • REST APIs • Security
-System Design             ████████████░░░░░░  Architecture • Scalability • Design Patterns
-AI / ML                   ████████████░░░░░░  ML • Deep Learning • GenAI
-Data Structures           ██████████████░░░░  Algorithms • Problem Solving
-DevOps                    ██████████░░░░░░░░  Docker • CI/CD • Linux
+Area
+
+Focus
+
+⚙️ Backend Engineering
+
+Spring Boot • REST APIs • Spring Security
+
+🏗️ System Design
+
+Architecture • Scalability • Design Patterns
+
+🧠 AI / ML
+
+Machine Learning • Deep Learning • Generative AI
+
+💻 Data Structures
+
+Algorithms • Problem Solving
+
+🐳 DevOps
+
+Docker • CI/CD • Linux
 
 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Justt-Abhayyy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justt-Abhayyy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
+<a href="https://github.com/Justt-Abhayyy?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
+<a href="https://github.com/Justt-Abhayyy?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Explore%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub stars"/>
+</a>
+<a href="https://github.com/Justt-Abhayyy?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-Connect-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Justt-Abhayyy&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+<a href="https://github.com/Justt-Abhayyy">
+  <img src="https://img.shields.io/badge/GitHub-@Justt--Abhayyy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
 
 </div>
 
-🏆 GitHub Achievements
+GitHub's native profile page displays my contribution calendar, activity, repositories, and language statistics directly.
+
+🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Justt-Abhayyy&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Justt-Abhayyy&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/Justt-Abhayyy">
+  <img src="https://img.shields.io/badge/Building-Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Building projects"/>
+</a>
+<a href="https://github.com/Justt-Abhayyy?tab=repositories">
+  <img src="https://img.shields.io/badge/Learning-Consistently-58A6FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning consistently"/>
+</a>
+<a href="https://github.com/Justt-Abhayyy">
+  <img src="https://img.shields.io/badge/Shipping-Code-0969DA?style=for-the-badge&logo=rocket&logoColor=white" alt="Shipping code"/>
+</a>
 
 </div>
 
