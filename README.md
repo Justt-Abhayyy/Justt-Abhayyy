@@ -85,52 +85,13 @@ DevOps & Tools
 🚀 Featured Project
 
 <div align="center">
-
 🧠 CodeMentorAI
 
-AI-powered coding practice and learning platform
+AI-powered coding practice platform focused on personalized problem recommendations, performance analysis, and adaptive difficulty.
 
-CodeMentorAI is a full-stack platform designed to make coding practice more personalized through intelligent problem recommendations, performance analysis, difficulty adaptation, and AI-assisted learning.
+Stack: React.js · Spring Boot · PostgreSQL · JPA/Hibernate · Spring Security · Python · Scikit-learn · Docker
 
-Layer
-
-Technology
-
-Frontend
-
-React.js
-
-Backend
-
-Spring Boot
-
-API
-
-REST
-
-Database
-
-PostgreSQL
-
-ORM
-
-JPA / Hibernate
-
-Security
-
-Spring Security / JWT
-
-AI/ML
-
-Python, Scikit-learn
-
-Testing
-
-Postman, JUnit
-
-DevOps
-
-Git, GitHub, Docker
+🔗 View Project
 
 <p>
   <a href="https://github.com/Justt-Abhayyy/CodeMentorAI">
